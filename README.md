@@ -26,20 +26,6 @@
 
 ---
 
-## 📁 Project Structure
-
-pardus-eylul/
-├── src/               # Kernel modülleri, bootloader, ilk başlatma (init) dosyaları
-├── docs/              # Teknik belgeler, mimari çizimler, PDF/Markdown formatında dökümanlar
-├── scripts/           # BIOS/UEFI test betikleri, GRUB ayarları, otomasyon scriptleri
-├── test/              # Sanal makineler için test ortamı (QEMU, VirtualBox vb.)
-├── config/            # TPM/SecureBoot/BIOS konfigürasyonları ve yapı dosyaları
-├── roadmap.md         # Geliştirme planı ve hedeflenen sürümler
-└── README.md          # Proje ana açıklama dosyası
-
-
----
-
 ## 📈 Development Roadmap
 
 - [x] Project architectural documentation (v1.0)
