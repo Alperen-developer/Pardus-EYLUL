@@ -62,9 +62,9 @@ pardus-eylul/
 
 ---
 
-## 🔍 Sample Boot Flow
-
-```text
-BIOS/UEFI → GRUB2 (hardened config) → Kernel (init stage 1) → TPM Handshake → Hardware Probing → Userland Init
-
+## Team İnformation
+- e-mail : *timonto43@gmail.com*
+- localtion : *Turkiye/Çankaya*
+- https://gitlab.com/datakral/Pardus-EYLUL
+- https://pardus.org.tr
 
